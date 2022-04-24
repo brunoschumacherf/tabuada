@@ -47,6 +47,7 @@ textarea {
   border-radius: 4px;
   background-color: #f1f1f1;
   resize: none;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 select {
