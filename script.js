@@ -6,7 +6,7 @@ function calculator(){
   var num1 = document.querySelector('input#num1').value
   var num2 = document.querySelector('input#num2').value
   for(let i = 0; i <= num2; i++){
-    calculo(i, res)
+    calculo(i)
   }
 }
 
